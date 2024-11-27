@@ -1,0 +1,6 @@
+title: IS 445 HW6
+description: A site to showcase my work and projects
+baseurl: ""  # 根據需要設置 baseurl，如果你的網站是子目錄，這裡需要設置
+url: "https://your-minglunchen.github.io"  # GitHub Pages 網站的網址
+theme: jekyll-theme-cayman  # 可以選擇不同的 Jekyll 主題，這裡選擇 Cayman 主題
+markdown: kramdown  # 設置 Markdown 處理方式
