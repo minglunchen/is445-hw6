@@ -1,6 +1,6 @@
 title: IS 445 HW6
 description: A site to showcase my work and projects
 baseurl: ""
-url: "https://minglunchen.github.io/is445-hw6/mypage.html" 
+url: "https://minglunchen.github.io/is445-hw6" 
 theme: jekyll-theme-cayman
 markdown: kramdown
